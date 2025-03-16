@@ -26,17 +26,17 @@
     "@types/react-dom": "^18.2.22",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@typescript-eslint/parser": "^7.2.0",
-    "@vitejs/plugin-react": "^4.2.1",
+    "@vitejs/plugin-react": "^4.3.4",
     "aws-cdk": "^2.138.0",
-    "aws-cdk-lib": "^2.138.0",
+    "aws-cdk-lib": "^2.184.1",
     "constructs": "^10.3.0",
-    "esbuild": "^0.20.2",
+    "esbuild": "^0.25.1",
     "eslint": "^8.57.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
-    "tsx": "^4.7.2",
+    "tsx": "^4.19.3",
     "typescript": "^5.4.5",
-    "vite": "^5.4.10"
+    "vite": "^6.2.2"
   },
   "homepage": "https://incrediblesadi.github.io/akilah.io"
 }
